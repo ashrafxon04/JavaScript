@@ -86,3 +86,19 @@
 
 
 
+// function getavaer() {
+//     console.log("helooo");
+//     console.log("helooo");
+//     console.log("helooo");
+//     console.log("helooo");
+//     console.log("helooo");
+//     console.log("helooo");
+//     console.log("helooo");
+//     console.log('================')
+// }
+
+// getavaer();
+// getavaer();
+// getavaer();
+
+ 
