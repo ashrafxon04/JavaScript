@@ -120,3 +120,68 @@
 // console.log(capitilize("webbrain academy "));
 
 // ex:"webbrain academy", output:"Webbrain Academy"
+
+// console.log(parseInt(Math.random()*10)); // rendom 10 gacha bulgan sonlarni aylantirib chiqarib beradi butun qismini.
+
+    // 1chi masala. 
+//===========================================
+
+// let res = {}
+// const getCount = (str1) => {
+// for ( i of str1){
+//     // console.log(i);
+//     if (i in res) res [i] ++;
+//     else res [i] = 1;
+// }
+// };
+// getCount("webbrain")
+// console.log(res);   
+
+//===========================================
+
+        //2 chi masala
+//===========================================
+
+// const truncate = (str2) => {
+//     console.log((5));
+// }
+
+// truncate("webbrain academy");
+
+
+//===========================================
+
+         //3 chi masala
+//===========================================
+// let res = "";
+// let getCurrency = (str) => {
+//     for ( l of str ){
+//         isFinite(l) && (res += l) 
+//     }
+// }  
+// getCurrency("$1hhvdgd23");
+
+// console.log(res);
+
+          //4 chi masala
+//===========================================
+
+// let res = { char:0 , str:0, num:0};
+
+//  const getCount = (str) => {
+//     for (key of str){
+//         if (isFinite(key)) res.num++;
+//         else if (key.toLowerCase() !== key.toUpperCase())  res.str ++;
+//         else res.char++;
+//     }
+// };
+// getCount("");
+// console.log(res);
+
+//===========================================
+
+         //5 chi masala
+//===========================================
+
+
+
